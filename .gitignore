@@ -1,0 +1,10 @@
+# Secrets never belong in this repo
+.env
+.env.*
+!.env.example
+mise.local.toml
+
+# Service account private keys
+*.pem
+*.key
+*service-account*.json
