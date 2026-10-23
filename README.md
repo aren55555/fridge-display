@@ -2,6 +2,8 @@
 
 A display for the fridge.
 
+Inspired by [Timeframe](https://hawksley.org/2026/02/17/timeframe.html).
+
 ## Planned features
 
 1. Week calendar
